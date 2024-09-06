@@ -12,3 +12,34 @@ modern.jsonp
 resources/sass/.sass-cache/
 resources/.arch-internal-preview.css
 .arch-internal-preview.css
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Builds
+dist/
+build/
+
+# Webpack e Parcel
+.cache/
+.parcel-cache/
+
+# Environment variables
+.env
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Logs
+*.log
+
+# ESLint/Prettier
+.eslintcache
+
+# Test Coverage
+coverage/
