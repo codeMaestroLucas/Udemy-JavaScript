@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: 0;
+    background: none;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    padding-top: 30px;
+}
+
+/* Normalmente esses estilos gerais ficariam em um RESET.CSS ou GLOBAL.CSS */
+
+.card {
+    background: rgb(118, 66, 170);
+    color: rgb(238, 238, 238);
+    border-radius: 5px;
+
+    padding: 20px;
+    margin: 10px;
+    width: 200px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.382);
+}
