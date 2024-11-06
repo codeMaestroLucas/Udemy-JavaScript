@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    list-style: none;
+}
+
+.list-of-animals {
+    width: 200px;
+    height: 400px;
+    padding: 10px;
+
+    border-radius: 7px;
+    background-color: red;
+}
+
+.li {
+    color: white;
+    font-size: 2rem;
+    margin-left: 10px;
+}

@@ -27,4 +27,11 @@ Card.defaultProps = {
     bgColor: 'red',
 }
 
+/*
+OR
+
+fucntion Card({background= blue, color= red})
+
+*/
+
 export default Card;
